@@ -28,8 +28,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
@@ -47,31 +47,39 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Risotera Formaggio di Minas",
+      "url": "https://github.com/FabioLiriodev/Risoteria-Formaggio-di-Minas",
+      "description": "Risoteria Formaggio di Minas is a fictional web application developed to represent a specialized risotto restaurant.",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Pokedex",
+      "url": "https://github.com/FabioLiriodev/pokedex",
+      "description": "Build a Pokedéx by consuming PokeAPI data.",
       "github": true
-    }
+    },
+    {
+      "name": "Arpeggio APP",
+      "url": "https://github.com/FabioLiriodev/Arpeggio-APP",
+      "description": "A music streaming comparator using own API which returns the number of albuns of an artist or band.",
+      "github": true
+    },
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Professor Universitário / UEMG",
+      "period": "2025 - até o momento",
+      "description": "Professor universitário das disciplinas de Química dos Materiais e Química Orgânica 2 para o Curso de Licenciatura em Química."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Professor / Educafro",
+      "period": "2024 - até o momento",
+      "description": "Trabalho voluntário como professor de química em pré-vestibular comunitário."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Professor do Ensino Básico, Técnico e Tecnológico / IFRJ",
+      "period": "2015 - 2024",
+      "description": "Professor das disciplinas de Bioquímica e Processos Bioquímicos para os Cursos Técnicos de Química e Controle Ambiental."
     }
   ]
 }
