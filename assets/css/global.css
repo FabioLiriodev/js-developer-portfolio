@@ -1,6 +1,38 @@
+:root {
+    font-size: 16px;
+    --font-title: 'Neue Machina', sans-serif;
+    --font-text: 'Open Sans', sans-serif;
+
+    --font-size-l: 1.5rem;
+    --font-size-xm: 1.25rem;
+    --font-size-m: 1.125rem;
+    --font-size-r: 1rem;
+
+    --font-weight-bold: 700;
+
+    --bg-color: #262626;
+    --text-color: #ffffff;
+
+    --bg-color-hover-acordeon:#55569E;
+    --border-color-hover-acordeon: #55569E;
+
+    --margin-l: 2rem;
+    --margin-r: 1rem;
+    --margin-s: .5rem;
+
+    --padding-l: 2rem;
+    --padding-r: 1rem;
+    --padding-s: .5rem;
+
+    --gap-r: 1rem;
+
+    --border-radius-r: 1rem;
+
+}
+
 * {
     box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+    font-family: var(--font-text);
 }
 
 @font-face {
@@ -9,12 +41,12 @@
 }
 
 body {
-    background-color: #000;
-    color: #fff;
+    background-color: var(--bg-color);
+    color: var(--text-color);
 }
 
 a {
-    color: #fff;
+    color: var(--text-color);
     text-decoration: none;
 }
 
@@ -23,10 +55,10 @@ a:hover {
 }
 
 .main {
-    margin: 1rem;
-    padding: 1rem;
-    border: 1px solid #fff;
-    border-radius: 1rem;
+    margin: var(--margin-r);
+    padding: var(--padding-r);
+    border: 1px solid var(--text-color);
+    border-radius: var(--border-radius-r);
 }
 
 .main::before,
@@ -57,7 +89,7 @@ a:hover {
 @media only screen and (min-width: 768px) {
     .main {
         max-width: 1024px;
-        margin: 1rem auto;
+        margin: var(--margin-r) auto;
     }
 
     .main::before,

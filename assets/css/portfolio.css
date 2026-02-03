@@ -12,17 +12,17 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    margin: 1rem 0;
+    margin: var(--margin-r) 0;
 }
 
 .portfolio li h3 {
     display: flex;
     flex-direction: row;
     align-items: center;
-    font-size: 1.25rem;
-    font-weight: 700;
+    font-size: var(--font-size-xm);
+    font-weight: var(--font-weight-bold);
     margin: 0;
-    margin-bottom: .5rem;
+    margin-bottom: var(--margin-s);
 }
 
 .portfolio li h3.github::before {
@@ -33,5 +33,5 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-image: url('../img/icons/github.svg');
-    margin-right: .5rem;
+    margin-right: var(--margin-s);
 }

@@ -4,7 +4,7 @@ footer {
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
-    padding: 1rem;
+    padding: var(--padding-r);
 }
 
 footer img {
