@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Fabio C Lirio",
+  "photo": "https://avatars.githubusercontent.com/u/140852220?v=4",
+  "job": "Junior Front End Developer",
+  "location": "Minas Gerais, Brazil",
+  "phone": "(24) 99844-9523",
+  "email": "fabioliriodev@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -34,17 +34,16 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
+      "Criatividade",
       "Flexibilidade",
-      "Organização"
+      "Aprendizagem contínua",
+      "Adaptabilidade"
     ]
   },
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (intermediário)"
   ],
   "portfolio": [
     {
